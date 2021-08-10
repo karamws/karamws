@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @karamws
-- 👀 I’m interested in open source programs
+- 👀 I’m interested in open source
 - 🌱 I’m currently learning React-Native
-- 💞️ I’m looking to collaborate on mobile appliaction
 - 📫 How to reach me karam[at]whitesourcesoftware[dot]com
 
 <!---
